@@ -1,4 +1,4 @@
-## Hi there, I'm Ishank Gupta <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Hi there, I'm Abhay Saini <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ## I'm a IT student, Competitive Programmer!
 
@@ -82,7 +82,6 @@
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/abhaysaini/count.svg" />
+  <img src="https://profile-counter.glitch.me/Ishank-tech/count.svg" />
 </p>
 
-![Snake animation](https://github.com/abhaysaini/abhaysaini/blob/output/github-contribution-grid-snake.svg)
