@@ -1,4 +1,4 @@
-## Hi there, I'm Abhay Saini <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Hi there, I'm Ishank Gupta <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ## I'm a IT student, Competitive Programmer!
 
